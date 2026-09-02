@@ -1,0 +1,36 @@
+body {
+    background-color: red;
+    color: black;
+    text-align:center;
+    font-famylj:arial;
+    font-size:15px;
+}
+
+header{background-color: blue;
+   border:3px  solid black;
+   padding-top: 100px;
+   padding-risot:40px;
+   padding-:40px ;   
+
+}
+
+nav{
+
+    background-color: purple;
+}
+
+caja{
+background-color:green;    
+color: white;
+
+}
+
+
+footer{
+    background-color: pink;
+}
+
+
+#pie{
+    background-color: green;
+}
